@@ -1,0 +1,1 @@
+	#base "../../_jofrehud/_customization/scripts/transparent.res"
